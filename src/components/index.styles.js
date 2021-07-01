@@ -44,7 +44,6 @@ margin: 0 auto;
             padding: 6px 12px;
             letter-spacing: 0.5px;
             margin: 16px;
-            
         }
         .number-style {
             color: #324d67;

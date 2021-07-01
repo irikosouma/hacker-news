@@ -20,7 +20,7 @@ margin: 0 auto;
         appearance: none;
         border: none;
         margin: 26px 0 48px 0;
-        padding: 16px;
+        padding: 16px 0;
         background-color: transparent;
         border-bottom: 3px solid #BCCCDC;
         color: #324d67;

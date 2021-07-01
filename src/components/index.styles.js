@@ -62,11 +62,11 @@ margin: 0 auto;
     }
     @media only screen and (max-width: 991px) and (min-width: 50px) {
         .wrap-news {
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-gap: 2rem;
-        gap: 2rem;
-    }
+            display: grid;
+            grid-template-columns: 1fr;
+            grid-gap: 2rem;
+            gap: 2rem;
+        }
     
     }
 `;
